@@ -16,6 +16,8 @@ DONGTI, linguist-translator.
 
 Tutorials: 
 - __[w3resource](https://www.w3resource.com/)__
+- __[htmlacademy](https://htmlacademy.ru/)__
+- __[learnjavascript](https://learn.javascript.ru/)__
 
 
 ## English
