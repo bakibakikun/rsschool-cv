@@ -49,3 +49,4 @@ function test(arra1, arra2) {
 console.log(test([1,2,3,4], [1,2,3,4]));
 console.log(test([1,2,3,4], [1,2,3,5]));
 console.log(test([1,2,3,4], [11,22,33,44]));
+```
